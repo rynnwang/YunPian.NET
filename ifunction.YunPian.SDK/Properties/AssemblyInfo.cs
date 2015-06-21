@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ifunction.YunPian.SDK")]
-[assembly: AssemblyDescription("1.1.3")]
+[assembly: AssemblyDescription("1.1.4")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Beyova")]
 [assembly: AssemblyProduct("ifunction.YunPian.SDK")]
